@@ -1,0 +1,18 @@
+html {
+    font-size: 16 px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(18, 87, 108)
+}
+
+h1 {
+    font-size: 1.7rem;
+    color: rgb(0, 195, 255);
+}
+
+p {
+    font-size: 1.2rem;
+    color: rgb(0, 195, 255);
+}
